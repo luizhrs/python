@@ -1,2 +1,2 @@
 # Python
-Repository created to "show off" my learning progress
+Repository created to show my learning progress
